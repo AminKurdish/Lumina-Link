@@ -4,7 +4,7 @@
 
 # Lumani Link for your Bio.
 
-Creating a LumaniLink for easy finding a socials link for personal or componey. 
+Creating a LuminaLink for easy finding a socials link for personal or componey. 
 
 ## what I used:
 

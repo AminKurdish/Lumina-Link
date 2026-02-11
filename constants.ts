@@ -1,7 +1,7 @@
 import { Github, Twitter, Instagram, Linkedin, Youtube, Mail, Globe, Coffee, Music, MessageCircle, Facebook, Send, Ghost, Video } from 'lucide-react';
 import { SocialLink, ThemeConfig, UserProfile, Language, AppData } from './types';
 
-const AVATAR_URL = "image/Amin it.png"; // Replace with your actual avatar image URL
+const AVATAR_URL = "/image/Amin it.png"; // Replace with your actual avatar image URL
 
 // Define all available links here with their icons
 const RAW_LINKS = [
