@@ -35,8 +35,8 @@ export const DATA: Record<Language, AppData> = {
       // { ...RAW_LINKS[11], title: 'Snapchat', url: '#' },
       { ...RAW_LINKS[9], title: 'Facebook', url: 'https://www.facebook.com/share/16us14JKgR/' },
       { ...RAW_LINKS[5], title: 'GitHub', url: 'https://github.com/AminKurdish', description: 'Explore my open-source projects' },
-      { ...RAW_LINKS[10], title: 'Telegram', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20LumaniLink' },
-      { ...RAW_LINKS[3], title: 'WhatsApp', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20LumaniLink', description: 'Chat with me directly' },
+      { ...RAW_LINKS[10], title: 'Telegram', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20lumina' },
+      { ...RAW_LINKS[3], title: 'WhatsApp', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20lumina', description: 'Chat with me directly' },
       { ...RAW_LINKS[7], title: 'Email', url: 'https://mailto:aaminshaqlawa@gmail.com' },
       { ...RAW_LINKS[12], title: 'TikTok', url: 'https://www.tiktok.com/@amin.technology', icon: Video }, // Using generic video icon for TikTok
     ] as SocialLink[],
@@ -56,8 +56,8 @@ export const DATA: Record<Language, AppData> = {
       // { ...RAW_LINKS[11], title: 'سناپچات', url: '#' },
       { ...RAW_LINKS[9], title: 'فەیسبووک', url: 'https://www.facebook.com/share/16us14JKgR/' },
       { ...RAW_LINKS[5], title: 'گیتهاب', url: 'https://github.com/AminKurdish' },
-      { ...RAW_LINKS[10], title: ' تێلیگرام', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20Library ' },
-      { ...RAW_LINKS[3], title: 'واتسئەپ', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20Library', description: 'راستەوخۆ قسەم لەگەڵ بکە' },
+      { ...RAW_LINKS[10], title: ' تێلیگرام', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20lumina ' },
+      { ...RAW_LINKS[3], title: 'واتسئەپ', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20lumina', description: 'راستەوخۆ قسەم لەگەڵ بکە' },
       { ...RAW_LINKS[12], title: 'TikTok', url: 'https://www.tiktok.com/@amin.technology', icon: Video }, // Using generic video icon for TikTok
     ] as SocialLink[],
   },
@@ -76,8 +76,8 @@ export const DATA: Record<Language, AppData> = {
       // { ...RAW_LINKS[11], title: 'سناب شات', url: '#' },
       { ...RAW_LINKS[9], title: 'فيسبوك', url: 'https://www.facebook.com/share/16us14JKgR/' },
       { ...RAW_LINKS[5], title: 'جيت هاب', url: 'https://github.com/AminKurdish' },
-      { ...RAW_LINKS[10], title: ' تيليجرام', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20Library' },
-      { ...RAW_LINKS[3], title: 'واتساب', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20Library', description: 'تحدث معي مباشرة' },
+      { ...RAW_LINKS[10], title: ' تيليجرام', url: 'https://t.me/D4RK_IT?text=Hello%20from%20my%20lumina' },
+      { ...RAW_LINKS[3], title: 'واتساب', url: 'https://wa.me/9647826052788?text=Hello%20from%20my%20lumina', description: 'تحدث معي مباشرة' },
       { ...RAW_LINKS[12], title: 'TikTok', url: 'https://www.tiktok.com/@amin.technology', icon: Video }, // Using generic video icon for TikTok
     ] as SocialLink[],
   },
