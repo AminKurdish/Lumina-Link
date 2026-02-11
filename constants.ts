@@ -30,7 +30,7 @@ export const DATA: Record<Language, AppData> = {
       avatarUrl: AVATAR_URL,
     },
     links: [
-      { ...RAW_LINKS[0], title: 'Portfolio Website', url: 'https://agent-698cb1015946f5c7b68ac530--amintechno.netlify.app/', description: 'Check out my latest case studies' },
+      { ...RAW_LINKS[0], title: 'Portfolio Website', url: 'https://amin-portfolio-iota.vercel.app/', description: 'Check out my latest case studies' },
       // { ...RAW_LINKS[2], title: 'Instagram', url: '#' },
       // { ...RAW_LINKS[11], title: 'Snapchat', url: '#' },
       { ...RAW_LINKS[9], title: 'Facebook', url: 'https://www.facebook.com/share/16us14JKgR/' },
