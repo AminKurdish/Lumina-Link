@@ -118,7 +118,7 @@ const App: React.FC = () => {
                      © {new Date().getFullYear()} {currentData.profile.name}. All rights reserved.
                  </p>
                  <a 
-                    href="#https://wa.me/9647826052788?text=Hello%20from%20my%20lumina" 
+                    href="https://wa.me/9647826052788?text=Hello%20from%20my%20lumina" 
                     className={`text-xs mt-1 block hover:underline ${isDarkMode ? 'text-gray-600 hover:text-gray-400' : 'text-gray-400 hover:text-gray-600'}`}
                  >
                     {uiTexts.create}
